@@ -1,6 +1,4 @@
 
-
-
 function funcionNotas(){
 
     let numNotas=1,nota,mayores=0,menores=0;
